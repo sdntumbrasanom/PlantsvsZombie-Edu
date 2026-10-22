@@ -1,0 +1,6 @@
+{
+  "name": "Plants vs Zombies: Kuis Edukasi",
+  "description": "Game tower defense Plants vs Zombies edukatif dengan integrasi bank soal spreadsheet (Kolom A-E) untuk pembelajaran seru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
